@@ -7,7 +7,7 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=ysnz.ysnz)
 ![GitHub top language](https://img.shields.io/github/languages/top/ysnz/ysnz-assistant?style=plastic)
 
-<a href="https://www.linkedin.com/in/aaron/">
+<a href="https://www.linkedin.com/in/aaron-aa/">
   <img align="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
@@ -85,7 +85,7 @@
 
 <br />
 
-[![Github Stats By aaron-clarusway](https://github-readme-stats.vercel.app/api?username=ysnz&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://aaron-clarusway.github.io/)
+[![Github Stats By aaron-clarusway](https://github-readme-stats.vercel.app/api?username=aaron-aa&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://aaron-clarusway.github.io/)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aaron-clarusway )
 
