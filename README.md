@@ -84,6 +84,9 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ansible/ansible.png"></code>
 
 <br />
+  
+ [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aaron-clarusway)](https://github.com/anuraghazra/github-readme-stats)
+
 
 [![Aaron's Github Stats](https://github-readme-stats.vercel.app/api?username=aaron-clarusway&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://aaron-clarusway.github.io/)
 
